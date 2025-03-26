@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 T S Manish | 🎓 B.Tech (CSIT) | 3rd Year<br><br>🚀 Tech Enthusiast <br><br>🏆 2X Hackathon Winner | 🏅 Smart India Hackathon Grand Finalist<br><br>📚 Love learning new skills and 🎙️ teaching others<br><br>🛠️ Skilled in Python 🐍, Java ☕, React ⚛️, Firebase 🔥<br><br>🤝 Open to collaborations, hackathons, and innovative projects 🚀
+👨‍💻 I am T S Manish | 🎓 B.Tech (CSIT) | 3rd Year<br><br>🚀 Tech Enthusiast <br><br>🏆 2X Hackathon Winner | 🏅 Smart India Hackathon Grand Finalist<br><br>📚 Love learning new skills and 🎙️ teaching others<br><br>🛠️ Skilled in Python 🐍, Java ☕, React ⚛️, Firebase 🔥<br><br>🤝 Open to collaborations, hackathons, and innovative projects 🚀
 
 
 ## 🌐 Socials:
